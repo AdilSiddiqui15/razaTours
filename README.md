@@ -1,56 +1,78 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/tourly)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/tourly?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/tourly?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/FYFmQEpZywc?style=social)](https://youtu.be/FYFmQEpZywc)
+# TravelBee
 
-  <br />
-  <br />
-  
-  <img src="./readme-images/project-logo.png" />
+At TravelBee, we believe in turning your travel dreams into reality. Whether you're an adventure seeker, a luxury traveler, or someone looking for a quick getaway, we've got you covered. Our platform is designed to simplify the travel booking process, offering a one-stop solution for flights, hotels, and exclusive travel packages.
+Preview the live template here: [TravelBee Live Demo](https://travel-bee-b66ab7.netlify.app/)
 
-  <h2 align="center">Tourly - Travel website</h2>
+## Table of Contents
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Screenshots](#Screenshots)
 
-  Tourly is fully responsive travel website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/tourly/"><strong>➥ Live Demo</strong></a>
+## Features
 
-</div>
+- **User Authentication**: Secure login and signup functionality for users.
+- **Home Page**: Welcome page with an overview of TravelBee's services.
+- **Services**: Explore and choose from a variety of travel packages.
+- **About**: Learn more about the TravelBee team and mission.
 
-<br />
-
-### Demo Screeshots
-
-![Tourly Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+## Getting Started
 
 ### Prerequisites
+- A modern web browser
+- A text editor (e.g., VS Code, Sublime Text)
+- Basic knowledge of HTML,CSS,SASS and JAVA SCRIPT
 
-Before you begin, ensure you have met the following requirements:
+  ## Technologies Used
+<ul>
+<li>HTML5</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>SASS</li>  
+</ul>
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+### Installation
 
-### Run Locally
+1. Clone the repository:
 
-To run **Tourly** locally, run this command on your git bash:
+   ```bash
+   git clone https://github.com/your-username/TravelBee.git
+   cd TravelBee
+2. Unzip the file if you've downloaded  it as a ZIP.
+3. Open the folder in your text editor.
+4. Use a SASS compiler to compile the `.scss` files to `.css` or edit the CSS directly.
+5. Open the `index.html` file in your web browser to view the template.
 
-Linux and macOS:
+   <br>
 
-```bash
-sudo git clone https://github.com/codewithsadee/tourly.git
-```
+#PROJECT LOGO
+<br>
 
-Windows:
+![clear logo-crop](https://github.com/heyyrahul/vivid-roll-405/assets/79692865/d3735248-d34a-4d84-b887-72fb8dba6a55)
 
-```bash
-git clone https://github.com/codewithsadee/tourly.git
-```
+## Screenshots
 
-### Contact
+### Home Page
+![home2](https://github.com/underiya/code-rhapsody-3467/assets/79692865/79148185-3657-4704-a912-c5f775e17b82)
+### Login 
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+![Login](https://github.com/heyyrahul/vivid-roll-405/assets/79692865/f5cc0a90-2daa-42f8-868f-553d2eba2db0)
 
-### License
+### Register
 
-This project is **free to use** and does not contains any license.
+![Register](https://github.com/heyyrahul/vivid-roll-405/assets/79692865/610293b6-686f-44c6-94c1-01fcc96b7284)
+
+### Services
+![services](https://github.com/underiya/code-rhapsody-3467/assets/79692865/83026714-49b0-4c58-93e1-8a6c1baf182b)
+### About
+
+![about](https://github.com/heyyrahul/vivid-roll-405/assets/79692865/05d0b2c4-32f9-4aef-a73d-97f81cb60301)
+
+
+## Contributors
+1. <a href="https://github.com/underiya" target="_blank">Deepak Underiya</a> 
+2. <a href="https://github.com/S-G-Biswas" target="_blank">Shyamgopal Biswas</a>  
+3. <a href="https://github.com/parveenheena" target="_blank"> Heena Parveen</a>
+4. <a href="https://github.com/heyyrahul" target="_blank">Rahul Kumar</a> 
